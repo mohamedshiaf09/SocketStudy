@@ -55,16 +55,8 @@ Socket programming finds applications in various domains, including web developm
 
 
 ## Result:
-```
-socket()	Creates a new socket
-bind()	Binds the socket to an IP address and port number
-listen()	Puts the socket in listening mode for incoming connections
-accept()	Accepts a connection request from a client
-connect()	Connects the client socket to the server
-send()	Sends data through the socket
-recv()	Receives data from the socket
-close()	Closes the socket connection
-setsockopt()	Sets socket options and configurations
-select()	Monitors multiple sockets for activity
-```
+<img width="1853" height="361" alt="image" src="https://github.com/user-attachments/assets/f25ca7bd-9881-4481-a0a1-8257a041cbfc" />
+<img width="1842" height="297" alt="image" src="https://github.com/user-attachments/assets/b8fc06a3-3acc-47e1-8952-aed0930e28dd" />
+
+
 Thus the study of Socket Programming Completed Successfully
